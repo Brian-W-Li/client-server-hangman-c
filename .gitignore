@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.out
+a.out
+*.exe
+
+# Build directories
+bin/
+build/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/
