@@ -3,6 +3,8 @@
 *.out
 a.out
 *.exe
+hangman_client
+hangman_server
 
 # Build directories
 bin/
