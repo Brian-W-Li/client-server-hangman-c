@@ -28,6 +28,12 @@ Client
 ## Build and Run
 
 make
-./hangman_server <port>
-./hangman_cleint <server_ip> <port>
+<br>
+./hangman_server <port> <br>
+./hangman_cleint <server_ip> <port> <br>
+
+> Note: This project was completed as part of UCSB CS 176A.  <br>
+> All code is my own implementation and is shared for portfolio purposes.
+
+
 
